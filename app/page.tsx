@@ -1,6 +1,8 @@
-import Image from "next/image";
+import { getUsers } from "@db/action";
 
-export default function Home() {
+export default async function Home() {
+  await getUsers();
+
   return <div></div>;
 }
 
