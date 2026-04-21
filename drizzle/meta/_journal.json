@@ -8,6 +8,13 @@
       "when": 1776581774432,
       "tag": "0000_military_moondragon",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1776582108151,
+      "tag": "0001_damp_living_tribunal",
+      "breakpoints": true
     }
   ]
 }
